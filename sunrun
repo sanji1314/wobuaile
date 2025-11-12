@@ -323,15 +323,7 @@ face_image_path = None
 
 # 多API密钥配置
 api_keys = [
-    "6d05ae2d40c8812bbdd40194e95f256e",
-    "0bf09ae5d393eb25da3cfd9d49d32cce",
-    "e90a1250d3e8f79f88ae8d407ac9b6cd",
-    "2dc4dfe986156b6926e00345829cdbd7",
-    "17ed0119d4ad1a5edaf38fed8c06d8e1",
-    "73268ef43c495acae0407def6b8f2669",
-    "77a0c735690a21a635aa387a88ca01c6",
-    "1004feef6024c418cc42312730ac900e",
-    "d3784638b39e2b9420a8fefa74b283a6"
+    
 ]
 
 selected_run_plan_code = None
